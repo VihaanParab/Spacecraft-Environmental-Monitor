@@ -1,7 +1,7 @@
 
 <div align="center">
 
-  <h1 style="color: #00f0ff;">ORBITAL LIFE SUPPORT MONITOR</h1>
+  <h1 style="color: #00f0ff;">🛡️ORBITAL LIFE SUPPORT MONITOR</h1>
   <p style="color: #ffb700; font-family: monospace;"&gt;> HABITABILITY & ATMOSPHERIC MONITORING PROTOCOL</p>
 
   <p>
